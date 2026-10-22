@@ -1,0 +1,8 @@
+{
+  "id": "post-check.social-001",
+  "type": "post",
+  "author": "ed25519:4b24dc3d13fb8fc66b5d884993ded85752c61e4cd6a66dcab427da757e7cf877",
+  "created": "2026-10-22T07:52:37.607663Z",
+  "content": "Hello world from check",
+  "signature": "AG1OZg8hnu1OeWshU+W27zgS8Dx5fDBYgybjWa2G4QbPiJhZjzCglWMHUMQSJsjpepQAt8Ff6amE6k62gOcfBw=="
+}
