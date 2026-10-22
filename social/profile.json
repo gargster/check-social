@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:4b24dc3d13fb8fc66b5d884993ded85752c61e4cd6a66dcab427da757e7cf877",
   "handle": "check.social",
-  "repoURL": null,
+  "repoURL": "https://github.com/gargster/check-social.git",
   "displayName": "Check",
   "bio": "Checking",
   "created": "2026-10-22T07:49:40.249049Z",
-  "signature": "wBFJqi6XUVblvP3W4KprkVwY3FIkkf/3XRYGyeDgiGM/YbWGMZwHDA0jRozEvTmRD35atdF0Li25qOyzR7TbDw=="
+  "signature": "qNdqOyJcIYzd0b1o3Tz6h18hZEuqsWuH/MBYZkUCXIaBO7kvsATWUKlqi/uHZSAxURsjiM4Q5Syq4Cxp0RZmDA=="
 }
