@@ -1,0 +1,9 @@
+{
+  "id": "boost-check.social-002",
+  "type": "boost",
+  "author": "ed25519:4b24dc3d13fb8fc66b5d884993ded85752c61e4cd6a66dcab427da757e7cf877",
+  "created": "2026-10-26T06:28:37.327985Z",
+  "target": "post-check.social-001",
+  "targetHandle": "check.social",
+  "signature": "NiD3BH55hfMZnvQk8bEaxY5i48zzufa7u+fblhbNwhwZHyeQL2npOjK96Z5zjxlVIY9jYfhkc3OFYULPgXa7AA=="
+}
